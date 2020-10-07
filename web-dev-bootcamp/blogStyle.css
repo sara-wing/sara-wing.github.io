@@ -1,0 +1,32 @@
+body {
+    border: 10px solid #bdc3c7;
+    max-width: 800px;
+    padding: 10px;
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    color: turquoise;
+}
+
+h2 {
+    color: #2c3e50;
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 2.0rem;
+}
+
+.date {
+   color: #3498db; 
+   text-transform: uppercase;
+   letter-spacing: 2px;
+}
+
+.quote {
+    border-left: 5px dotted #bdc3c7;
+    padding-left: 5px;
+}
+
+.blog-post, hr {
+    margin-bottom: 20px;
+}

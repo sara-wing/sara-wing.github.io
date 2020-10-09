@@ -1,4 +1,4 @@
-alert("Connected!");
+alert("Files are connected");
 
 console.log('Print all numbers between -10 and 19');
 

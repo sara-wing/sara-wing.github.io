@@ -1,4 +1,4 @@
-let age = prompt("What is your age?");
+let age = Number(prompt("What is your age?");
 
 // If age is negative, print an error message
 

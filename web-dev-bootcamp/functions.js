@@ -5,6 +5,7 @@ function isEven(num) {
 };
 
 // factorial v1 
+
 function factorial(num) {
     if(num < 0){
         return -1; 
@@ -16,6 +17,7 @@ function factorial(num) {
 };
 
 // factorial v2
+
 function factorial2(num) {
     let result = 1;
     for(let i = 2; i <= num; i++){

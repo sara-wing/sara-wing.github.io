@@ -1,4 +1,5 @@
 /* WRITE YOUR CODE IN HERE!!!!  */
+
 .square:nth-of-type(even) {
     background-color: black;
 }

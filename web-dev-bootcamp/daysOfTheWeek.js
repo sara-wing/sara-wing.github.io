@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION BELOW:
 
-const returnDay = (num) => {
+const returnDay = num => {
     let dayOfTheWeek = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
     if (num < 1 || num > 7) {
         return null;

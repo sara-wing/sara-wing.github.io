@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION:
 
-const rant = (message) => {
+const rant = message => {
     console.log(message.toUpperCase());
     console.log(message.toUpperCase());
     console.log(message.toUpperCase());

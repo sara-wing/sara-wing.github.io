@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION BELOW:
 
-const isShortsWeather = (temperature) => {
+const isShortsWeather = temperature => {
     if (temperature >= 75) {
         return true;
     } else {

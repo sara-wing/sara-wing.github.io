@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION BELOW:
 
-const sumArray = (arr) => {
+const sumArray = arr => {
     let sum = 0;
     for (let num of arr) {
         sum += num;

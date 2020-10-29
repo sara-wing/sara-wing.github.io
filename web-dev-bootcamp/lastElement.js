@@ -1,6 +1,6 @@
 // DEFINE YOUR FUNCTION BELOW:
 
-const lastElement = (arr) => {
+const lastElement = arr => {
     if (arr.length === 0) {
         return null;
     } else {
